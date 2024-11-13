@@ -1,7 +1,8 @@
 ---
 title: Test Close Read
 format:
-  closeread-html
+  closeread-html:
+    self-contained: true
 ---
 
 :::{.cr-section}
